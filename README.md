@@ -1,7 +1,7 @@
 angular-spreadsheet-sample
 ==========================
 
-![cover](https://dl.dropboxusercontent.com/u/9860880/cdn/blog/20140310/cover.png)
+![cover](http://4.bp.blogspot.com/-c79_8_wr6ZI/VNxSGcJ6uFI/AAAAAAAAgKs/pV39GQfAoqc/s1600/cover.png)
 
 AngularJS sample for Google Spreadsheet use [tabletop.js](https://github.com/jsoma/tabletop).
 
@@ -14,8 +14,6 @@ Clone this sample to your web host, and use [bower](http://bower.io/) to install
 
 Run and see `http://127.0.0.1/angular-spreadsheet-sample/index.html`：
 
-![201](https://dl.dropboxusercontent.com/u/9860880/cdn/blog/20140310/201.png)
-
 How to use
 ---
 
@@ -25,23 +23,23 @@ How to use
 
 先建立一份新的試算表：`建立` > `試算表`。
 
-![101](https://dl.dropboxusercontent.com/u/9860880/cdn/blog/20140310/101.png)
+![101](http://2.bp.blogspot.com/-oXVF_faJ1M0/VNxSW2fuwtI/AAAAAAAAgK0/PCTibtoFw-c/s1600/101.png)
 
 填寫資料表，以 [AngularJS Tutorial](http://docs.angularjs.org/tutorial) 的 [phones.json](https://github.com/angular/angular-phonecat/blob/master/app/phones/phones.json) 為例。
 
-![103](https://dl.dropboxusercontent.com/u/9860880/cdn/blog/20140310/103.png)
+![103](http://3.bp.blogspot.com/-qvypLpUuK4s/VNxSk6rfUeI/AAAAAAAAgK8/kRea5eBQ_EQ/s1600/103.png)
 
 將試算表權限公開：`檔案` > `共用` > `擁有存取權的使用者` > `變更`。
 
-![104](https://dl.dropboxusercontent.com/u/9860880/cdn/blog/20140310/104.png)
+![104](http://3.bp.blogspot.com/-hDMTH1h0MM0/VNxSpFNM-8I/AAAAAAAAgLE/w7YUzUc7Zn4/s1600/104.png)
 
 `共用設定` > `公開在網路上` > `存取權` > `可檢視` > `儲存`。
 
-![105](https://dl.dropboxusercontent.com/u/9860880/cdn/blog/20140310/105.png)
+![105](http://2.bp.blogspot.com/-nI5x-h8PTHo/VNxSuJFPf0I/AAAAAAAAgLM/Hyl_0deIMwo/s1600/105.png)
 
 權限公開後，發佈到網路：`檔案` > `發佈到網路` > `內容有所變更時自動更新發佈` > `開始發佈`。
 
-![106](https://dl.dropboxusercontent.com/u/9860880/cdn/blog/20140310/106.png)
+![106](http://1.bp.blogspot.com/-PGCXrlpXidw/VNxSzI6VzVI/AAAAAAAAgLU/wPl-jufgXPQ/s1600/106.png)
 
 發佈完成後，公開連結中會提供一組 key，可以前往 [Google Data APIs](https://developers.google.com/gdata/samples/spreadsheet_sample) 測試看看資料是否回傳正確。
 
